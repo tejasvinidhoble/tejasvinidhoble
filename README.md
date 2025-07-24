@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Tejasvini Dhoble</h1>
-<p align="center">💻 Full Stack Java Developer | React Enthusiast | Problem Solver</p>
+<h3 align="center">💻 Full Stack Java Developer | React Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -11,29 +11,11 @@
 
 ---
 
-## 👩‍💻 About Me
-
-Hi, I'm **Tejasvini Dhoble** — a passionate Full Stack Java Developer with a strong foundation in building scalable web applications.  
-I enjoy solving real-world problems using Java, Spring Boot, React, and databases like MySQL & MongoDB.  
-I'm always curious to learn new technologies and grow as a developer. ✨
-
----
-
 ## 🧠 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,nodejs,html,css,bootstrap,mysql,mongodb,py,android" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-- 🛒 **Online Shopping Cart**  
-  Spring Boot + MySQL + Thymeleaf based full-stack app with product CRUD, authentication & order tracking.
-
-- 🌍 **Smart Waste Management System**  
-  Flutter + Firebase app for real-time QR scanning & notifications for cleanliness management.
 
 ---
 
@@ -54,11 +36,22 @@ I'm always curious to learn new technologies and grow as a developer. ✨
 
 ---
 
-## 🔥 GitHub Streak
+
+---
+
+## 🌟 Developer's Highlights
+
+- ✅ Solved 400+ coding problems across LeetCode, GFG & HackerRank  
+- ✅ Built 10+ real-world projects with full CRUD & database integration  
+- ✅ Hands-on experience with REST APIs, Spring Boot, and React  
+- ✅ Participated in internships at CodeClause, Let’s Grow More & more  
+- ✅ Quick learner, clean coder & consistent performer 💯
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvinidhoble&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer&text=Full%20Stack%20Developer&fontSize=30&fontColor=ffffff" />
 </p>
+
+
 
 
 
@@ -76,11 +69,12 @@ I'm always curious to learn new technologies and grow as a developer. ✨
 
 ---
 
-## 🎬 Coding Vibes
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" />
 </p>
+
 
 ---
 
@@ -93,3 +87,5 @@ I'm always curious to learn new technologies and grow as a developer. ✨
 <p align="center">
   Made with ❤️ by <b>Tejasvini Dhoble</b> | 💻 Keep Learning. Keep Building.
 </p>
+
+---
