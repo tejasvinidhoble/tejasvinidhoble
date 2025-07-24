@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Tejasvini Dhoble</h1>
-<h3 align="center">💻 Full Stack Java Developer | React Enthusiast | Problem Solver</h3>
+<p align="center">💻 Full Stack Java Developer | React Enthusiast | Problem Solver</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -11,11 +11,32 @@
 
 ---
 
+## 👩‍💻 About Me
+
+Hi, I'm **Tejasvini Dhoble** — a passionate Full Stack Java Developer with a strong foundation in building scalable web applications.  
+I enjoy solving real-world problems using Java, Spring Boot, React, and databases like MySQL & MongoDB.  
+I'm always curious to learn new technologies and grow as a developer. ✨
+
+---
+
 ## 🧠 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,nodejs,html,css,bootstrap,mysql,mongodb,py,android" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🛒 **Online Shopping Cart**  
+  Spring Boot + MySQL + Thymeleaf based full-stack app with product CRUD, authentication & order tracking.
+
+- 🌍 **Smart Waste Management System**  
+  Flutter + Firebase app for real-time QR scanning & notifications for cleanliness management.
+
+- 📧 **Email Client Software**  
+  Java Swing + JavaMail API desktop app to send, receive & manage emails with a clean UI.
 
 ---
 
@@ -39,9 +60,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejasvinidhoble&theme=dark&hide_border=true" />
-  
+  <img src="https://raw.githubusercontent.com/tejasvinidhoble/tejasvinidhoble/main/assets/tejasvini_github_streak_chart.png" alt="GitHub Streak Chart" />
 </p>
+
 
 ---
 
@@ -70,6 +91,7 @@
 </p>
 
 ---
+
 <p align="center">
   Made with ❤️ by <b>Tejasvini Dhoble</b> | 💻 Keep Learning. Keep Building.
 </p>
