@@ -35,9 +35,6 @@ I'm always curious to learn new technologies and grow as a developer. ✨
 - 🌍 **Smart Waste Management System**  
   Flutter + Firebase app for real-time QR scanning & notifications for cleanliness management.
 
-- 📧 **Email Client Software**  
-  Java Swing + JavaMail API desktop app to send, receive & manage emails with a clean UI.
-
 ---
 
 ## 🏆 GitHub Trophy Cabinet
@@ -60,8 +57,9 @@ I'm always curious to learn new technologies and grow as a developer. ✨
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tejasvinidhoble/tejasvinidhoble/main/assets/tejasvini_github_streak_chart.png" alt="GitHub Streak Chart" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvinidhoble&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 
 ---
