@@ -41,7 +41,7 @@
 
 ## 🌟 Developer's Highlights
 
-- ✅ Solved 400+ coding problems across LeetCode, GFG & HackerRank  
+- ✅ Solved 200+ coding problems across LeetCode, GFG & HackerRank  
 - ✅ Built 10+ real-world projects with full CRUD & database integration  
 - ✅ Hands-on experience with REST APIs, Spring Boot, and React  
 - ✅ Participated in internships at CodeClause, Let’s Grow More & more  
